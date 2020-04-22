@@ -1,0 +1,14 @@
+#container{
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+.box {
+    width: 16px;
+    height: 16px;
+    border-style: groove;
+}
